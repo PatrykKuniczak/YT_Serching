@@ -1,0 +1,8 @@
+Program ma mieć 2 główne funkcjonalności:
+
+1.Po otrzymaniu komendy głosowej ma odczytać wykonawce i tytuł piosenki,nie zależnie czy znajdujemy się na pulpicie,w innej karcie przeglądarki,czy w grze.
+(Opcjonalnie odczytywanie z jakiej playlisty słuchamy piosenkę oraz z jakiego albumu pochodzi dana piosenka
+[Czasami w opisach piosenek jest podany album],po osobnej komendzie głosowej])
+
+2.Po otrzymaniu komendy głosowej ma uruchomić podaną piosenkę/filmik, oraz za pomocą komend, mamy mieć możliwość zatrzymać,
+odpauzować,zmienić głośność, skipnąć lub cofnąć się do poprzednio słuchanej piosenki.
